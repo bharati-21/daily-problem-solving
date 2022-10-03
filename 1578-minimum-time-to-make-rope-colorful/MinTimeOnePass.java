@@ -1,4 +1,4 @@
-class Solution {
+class MinTimeOnePass {
     public int minCost(String colors, int[] neededTime) {
         if(colors == null || colors.length() == 0 || neededTime == null || neededTime.length == 0) {
             return 0;
