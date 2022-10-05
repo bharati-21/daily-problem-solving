@@ -23,7 +23,7 @@ class TreeNodeDepth {
     }   
 }
 
-class Solution {
+class AddOneRowToTreeDFSStack {
     public TreeNode addOneRow(TreeNode root, int val, int depth) {
         if(root == null) {
             return null;
