@@ -19,35 +19,33 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
   <tbody>
     <tr>
       <td>
-        5
+        1
       </td>
       <td>
-        <a href="https://leetcode.com/problems/add-one-row-to-tree/" target="_blank">623. Add One Row to Tree</a>
+        <a href="https://leetcode.com/problems/decode-ways/" target="_blank">91. Decode Ways</a>
       </td>
       <td>
-        <code>Tree</code>
-        <code>Depth First Search</code>
-        <code>Breadth First Search</code>
-        <code>Binary Tree</code>
+        <code>String</code> 
+        <code>Dynamic Programming</code>
+        <code>Recursion</code>
       </td>
       <td>
-        05/10/2022 11:05 IST
+        01/10/2022 12:38 IST
       </td>
     </tr>
     <tr>
       <td>
-        4
+        2
       </td>
       <td>
-        <a href="https://leetcode.com/problems/maximum-product-of-word-lengths/" target="_blank">318. Maximum Product of Word Lengths</a>
+        <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">1155. Number of Dice Rolls With Target Sum</a>
       </td>
       <td>
-        <code>Array</code>
-        <code>String</code>
-        <code>Bit Manipulation</code>
+        <code>Dynamic Programming</code>
+        <code>Recursion</code>
       </td>
       <td>
-        04/10/2022 11:38 IST
+        02/10/2022 21:58 IST
       </td>
     </tr>
     <tr>
@@ -69,33 +67,35 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
     </tr>
     <tr>
       <td>
-        2
+        4
       </td>
       <td>
-        <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/" target="_blank">1155. Number of Dice Rolls With Target Sum</a>
+        <a href="https://leetcode.com/problems/maximum-product-of-word-lengths/" target="_blank">318. Maximum Product of Word Lengths</a>
       </td>
       <td>
-        <code>Dynamic Programming</code>
-        <code>Recursion</code>
+        <code>Array</code>
+        <code>String</code>
+        <code>Bit Manipulation</code>
       </td>
       <td>
-        02/10/2022 21:58 IST
+        04/10/2022 11:38 IST
       </td>
     </tr>
     <tr>
       <td>
-        1
+        5
       </td>
       <td>
-        <a href="https://leetcode.com/problems/decode-ways/" target="_blank">91. Decode Ways</a>
+        <a href="https://leetcode.com/problems/add-one-row-to-tree/" target="_blank">623. Add One Row to Tree</a>
       </td>
       <td>
-        <code>String</code> 
-        <code>Dynamic Programming</code>
-        <code>Recursion</code>
+        <code>Tree</code>
+        <code>Depth First Search</code>
+        <code>Breadth First Search</code>
+        <code>Binary Tree</code>
       </td>
       <td>
-        01/10/2022 12:38 IST
+        05/10/2022 11:05 IST
       </td>
     </tr>
   </tbody>
