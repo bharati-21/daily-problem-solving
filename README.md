@@ -98,5 +98,21 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         05/10/2022 11:05 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        6
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/time-based-key-value-store/" target="_blank">981. Time Based Key-Value Store</a>
+      </td>
+      <td>
+        <code>Hashing</code>
+        <code>Hash Map</code>
+        <code>Binary Search</code>
+        <code>Design</code>
+      </td>
+      <td>
+        06/10/2022 11:53 IST
+      </td>
   </tbody>
 </table>
