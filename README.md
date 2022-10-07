@@ -114,5 +114,22 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
       <td>
         06/10/2022 11:53 IST
       </td>
+    </tr>
+    <tr>
+      <td>
+        7
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/my-calendar-iii/">732. My Calendar III</a>
+      </td>
+      <td>
+        <code>Segment Trees</code>
+        <code>Sorted Hash Map</code>
+        <code>Sweep Line</code>
+      </td>
+      <td>
+        10/07/2022 10:12 IST
+      </td>
+    </tr>
   </tbody>
 </table>
