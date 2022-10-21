@@ -222,5 +222,21 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         11/10/2022 18:23 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        13
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">
+          237. Delete Node in a Linked List
+        </a>
+      </td>
+      <td>
+        <code>Linked List</code>
+      </td>
+      <td>
+        13/10/2022 09:24 IST
+      </td>
+    </tr>
   </tbody>
 </table>
