@@ -364,5 +364,23 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         20/10/2022 11:42 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        21
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/contains-duplicate-ii/">
+          1219. Contains Duplicate II
+        </a>
+      </td>
+      <td>
+        <code>Hash Table</code>
+        <code>Array</code>
+        <code>Sliding Window</code>
+      </td>
+      <td>
+        21/10/2022 10:54 IST
+      </td>
+    </tr>
   </tbody>
 </table>
