@@ -203,5 +203,24 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         11/10/2022 09:48 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        12
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/largest-perimeter-triangle/">
+          976. Largest Perimeter Triangle
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Math</code>
+        <code>Greedy</code>
+        <code>Sorting</code>
+      </td>
+      <td>
+        11/10/2022 18:23 IST
+      </td>
+    </tr>
   </tbody>
 </table>
