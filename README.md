@@ -269,7 +269,24 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         <code>Matrix</code>
       </td>
       <td>
-        15/10/2022, 22:17 IST	
+        15/10/2022 22:17 IST	
+      </td>
+    </tr>
+    <tr>
+      <td>
+        16
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/">
+         1335. Minimum Difficulty of a Job Schedule
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Dynamic Programming</code>
+      </td>
+      <td>
+        16/10/2022 10:31 IST	
       </td>
     </tr>
   </tbody>
