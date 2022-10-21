@@ -308,5 +308,22 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         17/10/2022 10:27 IST	
       </td>
     </tr>
+    <tr>
+      <td>
+        18
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/count-and-say/">
+         38. Count and Say
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Recursion</code>
+      </td>
+      <td>
+        18/10/2022 10:03 IST
+      </td>
+    </tr>
   </tbody>
 </table>
