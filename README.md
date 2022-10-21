@@ -183,7 +183,24 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         <code>Greedy</code>
       </td>
       <td>
-        10/10/2022 11:07, IST
+        10/10/2022 11:07 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        11
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/increasing-triplet-subsequence/">
+          334. Increasing Triplet Subsequence
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Greedy</code>
+      </td>
+      <td>
+        11/10/2022 09:48 IST
       </td>
     </tr>
   </tbody>
