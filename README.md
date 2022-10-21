@@ -325,5 +325,26 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         18/10/2022 10:03 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        19
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/top-k-frequent-words/">
+          692. Top K Frequent Words
+        </a>
+      </td>
+      <td>
+        <code>Hash Table</code>
+        <code>String</code>
+        <code>Trie</code>
+        <code>Sorting</code>
+        <code>Heap</code>
+        <code>Priority Queue</code>
+      </td>
+      <td>
+        19/10/2022 08:47 IST
+      </td>
+    </tr>
   </tbody>
 </table>
