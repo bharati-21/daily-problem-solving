@@ -255,5 +255,22 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         14/10/2022 07:43 IST	
       </td>
     </tr>
+    <tr>
+      <td>
+        15
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/toeplitz-matrix/">
+         766. Toeplitz Matrix
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Matrix</code>
+      </td>
+      <td>
+        15/10/2022, 22:17 IST	
+      </td>
+    </tr>
   </tbody>
 </table>
