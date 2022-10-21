@@ -1,4 +1,4 @@
-/**
+ /**
  * Definition for singly-linked list.
  * public class ListNode {
  *     int val;
@@ -13,17 +13,33 @@ class Solution {
         if(head == null || head.next == null) {
             return null;
         }
-        ListNode prevToMiddleNode = getPreviousNodeToMiddle(head);
+        int length = getLength(head);
+        ListNode prevToMiddleNode = getPreviousToMiddleNode(head, length); 
         prevToMiddleNode.next = prevToMiddleNode.next.next;
         return head;
     } 
 
-    private ListNode getPreviousNodeToMiddle(ListNode head) {
-        ListNode prev = null, fast = head;
-        while(fast != null && fast.next != null) {
-            prev = (prev == null) ? head : prev.next;
-            fast = fast.next.next;
+    private int getLength(ListNode head) {
+        int length = 0;
+        ListNode ptr = head;
+        while(ptr != null) {
+            length++;
+            ptr = ptr.next;
         }
-        return prev;
+
+        return length;
+    }
+
+    private ListNode getPreviousToMiddleNode(ListNode head, int n) {
+        int middle = n/2;
+
+        ListNode ptr = head;
+        int count = 0;
+        while(count < middle-1) {
+            ptr = ptr.next;
+            count++;
+        }
+
+        return ptr;
     }
 }
