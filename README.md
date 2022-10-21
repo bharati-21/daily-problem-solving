@@ -128,7 +128,45 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         <code>Sweep Line</code>
       </td>
       <td>
-        10/07/2022 10:12 IST
+        07/10/2022 10:12 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        8
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/3sum-closest/">16. 3Sum Closest</a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Two Pointers</code> 
+        <code>Sorting</code>
+      </td>
+      <td>
+        08/10/2022 12:18 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        9
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">
+          653. Two Sum IV - Input is a BST
+        </a>
+      </td>
+      <td>
+        <code>Hash Table</code>
+        <code>Two Pointers</code>
+        <code>Tree</code>
+        <code>Binary Tree</code>
+        <code>Binary Search Tree</code>
+        <code>Breadth First Search</code>
+        <code>Depth First Search</code>
+      </td>
+      <td>
+        09/10/2022 11:30, IST
       </td>
     </tr>
   </tbody>
