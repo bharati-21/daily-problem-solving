@@ -289,5 +289,24 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         16/10/2022 10:31 IST	
       </td>
     </tr>
+    <tr>
+      <td>
+        17
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">
+         1832. Check if the Sentence Is Pangram
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Bit Manipulation</code>
+        <code>Set</code>
+        <code>Hash Table</code>
+      </td>
+      <td>
+        17/10/2022 10:27 IST	
+      </td>
+    </tr>
   </tbody>
 </table>
