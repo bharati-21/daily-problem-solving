@@ -166,7 +166,24 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         <code>Depth First Search</code>
       </td>
       <td>
-        09/10/2022 11:30, IST
+        09/10/2022 11:30 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        10
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/break-a-palindrome/">
+          1328. Break a Palindrome
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Greedy</code>
+      </td>
+      <td>
+        10/10/2022 11:07, IST
       </td>
     </tr>
   </tbody>
