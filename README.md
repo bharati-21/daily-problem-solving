@@ -382,5 +382,23 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         21/10/2022 10:54 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        22
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/minimum-window-substring/">
+          76. Minimum Window Substring
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Two Pointers</code>
+        <code>Hash Table</code>
+      </td>
+      <td>
+        22/10/2022 11:37 IST
+      </td>
+    </tr>
   </tbody>
 </table>
