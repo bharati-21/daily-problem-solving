@@ -400,5 +400,43 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         22/10/2022 11:37 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        23
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/set-mismatch/">
+         645. Set Mismatch
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Sorting</code>
+        <code>Hash Table</code>
+        <code>Bit Manipulation</code>
+      </td>
+      <td>
+        23/10/2022 09:59 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        24
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">
+          1239. Maximum Length of a Concatenated String with Unique Characters
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>String</code>
+        <code>Backtracking</code>
+        <code>Recursion</code>
+      </td>
+      <td>
+        24/10/2022 18:19 IST
+      </td>
+    </tr>
   </tbody>
 </table>
