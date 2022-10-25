@@ -438,5 +438,22 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         24/10/2022 18:19 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        25
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">
+          1662. Check If Two String Arrays are Equivalent
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>String</code>
+      </td>
+      <td>
+        25/10/2022 09:15 IST
+      </td>
+    </tr>
   </tbody>
 </table>
