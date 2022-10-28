@@ -455,5 +455,60 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         25/10/2022 09:15 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        26
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/continuous-subarray-sum/">
+          523. Continuous Subarray Sum
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Hash Table</code>
+        <code>Math</code>
+        <code>Prefix Sum</code>
+      </td>
+      <td>
+        26/10/2022 10:19 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        27
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/image-overlap/">
+          835. Image Overlap
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Matrix</code>
+      </td>
+      <td>
+        27/10/2022 10:12 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        28
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/group-anagrams/">
+          49. Group Anagrams
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>String</code>
+        <code>Hash Table</code>
+        <code>Sorting</code>
+      </td>
+      <td>
+        28/10/2022 11:09 IST
+      </td>
+    </tr>
   </tbody>
 </table>
