@@ -510,5 +510,23 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         28/10/2022 11:09 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        29
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">
+          2136. Earliest Possible Day of Full Bloom
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Greedy</code>
+        <code>Sorting</code>
+      </td>
+      <td>
+        29/10/2022 08:27 IST
+      </td>
+    </tr>
   </tbody>
 </table>
