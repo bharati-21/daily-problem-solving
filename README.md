@@ -528,5 +528,151 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         29/10/2022 08:27 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        30
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/">
+          1293. Shortest Path in a Grid with Obstacles Elimination
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Matrix</code>
+        <code>Breadth First Search</code>
+      </td>
+      <td>
+        30/10/2022 09:40 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        31
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/first-missing-positive/">
+          41. First Missing Positive
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Hash Table</code>
+      </td>
+      <td>
+        31/10/2022 22:33 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        32
+      <td>
+        <a href="https://leetcode.com/problems/where-will-the-ball-fall/">
+          1706. Where Will the Ball Fall
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Dynamic Programming</code>
+        <code>Depth First Search</code>
+        <code>Matrix</code>
+        <code>Simulation</code>
+      </td>
+      <td>
+        01/11/2022 08:17 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        33
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/minimum-genetic-mutation/">
+          433. Minimum Genetic Mutation
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Hash Table</code>
+        <code>Breadth First Search</code>
+      </td>
+      <td>
+        02/11/2022 21:57 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        34
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">
+          2131. Longest Palindrome by Concatenating Two Letter Words
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Array</code>
+        <code>Hash Table</code>
+        <code>Greedy</code>
+      </td>
+      <td>
+        03/11/2022 07:15 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        35
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">
+          345. Reverse Vowels of a String
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Two Pointers</code>
+      </td>
+      <td>
+        04/11/2022 09:57 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        36
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/word-search-ii/">
+          212. Word Search II
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>String</code>
+        <code>Backtracking</code>
+        <code>Trie</code>
+        <code>Matrix</code>
+      </td>
+      <td>
+        05/11/2022 11:04 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        37
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/orderly-queue/">
+          899. Orderly Queue
+        </a>
+      </td>
+      <td>
+        <code>Math</code>
+        <code>String</code>
+        <code>Sorting</code>
+      </td>
+      <td>
+        06/11/2022 09:39 IST
+      </td>
+    </tr>
   </tbody>
 </table>
