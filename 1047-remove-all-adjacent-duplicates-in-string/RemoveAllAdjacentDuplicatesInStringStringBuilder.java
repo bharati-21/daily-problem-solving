@@ -5,19 +5,26 @@ class Solution {
         }
         
         int n = s.length();
-        StringBuilder sb = new StringBuilder(s);
-        int i = 0;
-        while(i < sb.length() - 1) {
-            char curr = sb.charAt(i);
-            char next = sb.charAt(i+1);
+        Stack<Character> stack = new Stack<>();
+        
+        for(int i = 0; i<n; i++) {
+            char ch = s.charAt(i);
             
-            if(next == curr) {
-                sb.delete(i, i+2);
-                if(i > 0) i -= 1;
+            if(!stack.isEmpty()) {
+                char top = stack.peek();
+                
+                if(top == ch) {
+                    stack.pop();
+                    continue;
+                }
             }
-            else {
-                i++;
-            }
+            
+            stack.push(ch);
+        }
+        
+        StringBuilder sb = new StringBuilder();
+        for(char ch: stack) {
+            sb.append(ch);
         }
         
         return sb.toString();
