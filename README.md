@@ -674,5 +674,74 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         06/11/2022 09:39 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        38
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/maximum-69-number/">
+          1323. Maximum 69 Number
+        </a>
+      </td>
+      <td>
+        <code>Greedy</code>
+        <code>Math</code>
+      </td>
+      <td>
+        07/11/2022 08:02 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        39
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/make-the-string-great/solution/">
+          1544. Make The String Great
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Stack</code>
+      </td>
+      <td>
+        08/11/2022 08:06 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        40
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/online-stock-span/">
+          901. Online Stock Span
+        </a>
+      </td>
+      <td>
+        <code>Stack</code>
+        <code>Monotonic Stack</code>
+        <code>Design</code>
+      </td>
+      <td>
+        09/11/2022 08:04 IST	
+      </td>
+    </tr>
+    <tr>
+      <td>
+        41
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">
+          1047. Remove All Adjacent Duplicates In String
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Stack</code>
+      </td>
+      <td>
+        10/11/2022 08:38 IST
+      </td>
+    </tr>
   </tbody>
 </table>
