@@ -743,5 +743,76 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         10/11/2022 08:38 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        42
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">
+          26. Remove Duplicates from Sorted Array
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Two Pointers</code>
+      </td>
+      <td>
+        11/11/2022 08:53 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        43
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/find-median-from-data-stream/">
+          295. Find Median from Data Stream
+        </a>
+      </td>
+      <td>
+        <code>Priority Queue</code>
+        <code>Heap</code>
+        <code>Two Pointers</code>
+        <code>Design</code>
+      </td>
+      <td>
+        12/11/2022 10:05 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        44
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/reverse-words-in-a-string/">
+          151. Reverse Words in a String
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Two Pointers</code>
+      </td>
+      <td>
+        13/11/2022 11:05 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        45
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/">
+          947. Most Stones Removed with Same Row or Column
+        </a>
+      </td>
+      <td>
+        <code>Graph</code>
+        <code>Depth First Search</code>
+        <code>Union Find</code>
+      </td>
+      <td>
+        14/11/2022 09:17 IST
+      </td>
+    </tr>
   </tbody>
 </table>
