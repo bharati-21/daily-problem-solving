@@ -15,12 +15,7 @@ class Solution {
         int top = Math.min(ay2, by2);
         int yOverlap = top - bottom;
         
-        int overlapArea = 0;
-        
-        if(xOverlap > 0 && yOverlap > 0) {
-            overlapArea = yOverlap * xOverlap;
-        }
-        
+        int overlapArea = yOverlap * xOverlap;
         
         return area1 + area2 - overlapArea;
     }
