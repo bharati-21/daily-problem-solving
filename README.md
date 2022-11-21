@@ -814,5 +814,128 @@ Check out the entire series [here](https://bharati.hashnode.dev/series/problem-s
         14/11/2022 09:17 IST
       </td>
     </tr>
+    <tr>
+      <td>
+        46
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/count-complete-tree-nodes/">
+          222. Count Complete Tree Nodes
+        </a>
+      </td>
+      <td>
+        <code>Binary Tree</code>
+        <code>Depth First Search</cdode>
+        <code>Tree</code>
+      </td>
+      <td>
+        15/11/2022 08:38 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        47
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/guess-number-higher-or-lower/">
+          374. Guess Number Higher or Lower
+        </a>
+      </td>
+      <td>
+        <code>Interactive</code>
+        <code>Binary Search</code>
+      </td>
+      <td>
+        16/11/2022 08:59 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        48
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/rectangle-area/">
+          223. Rectangle Area
+        </a>
+      </td>
+      <td>
+        <code>Math/code>
+        <code>Geometry</code>
+      </td>
+      <td>
+        17/11/2022 10:31 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        49
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/ugly-number/">
+          263. Ugly Number
+        </a>
+      </td>
+      <td>
+        <code>Math/code>
+      </td>
+      <td>
+        18/11/2022 09:11 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        50
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/erect-the-fence/">
+          587. Erect the Fence
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Math</code>
+        <code>Geometry</code>
+      </td>
+      <td>
+        19/11/2022 20:42 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        51
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/basic-calculator/">
+          224. Basic Calculator
+        </a>
+      </td>
+      <td>
+        <code>String</code>
+        <code>Math</code>
+        <code>Stack</code>
+        <code>Recursion</code>
+      </td>
+      <td>
+        20/11/2022 09:56 IST
+      </td>
+    </tr>
+    <tr>
+      <td>
+        52
+      </td>
+      <td>
+        <a href="https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/">
+          1926. Nearest Exit from Entrance in Maze
+        </a>
+      </td>
+      <td>
+        <code>Array</code>
+        <code>Breadth First Search</code>
+        <code>Matrix</code>
+      </td>
+      <td>
+        21/11/2022 10:20 IST
+      </td>
+    </tr>
   </tbody>
 </table>
